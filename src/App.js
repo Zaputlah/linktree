@@ -5,7 +5,7 @@ import './App.css';
 const sosmed = [
   { title: 'youtube', url: 'https://www.youtube.com/channel/UCJCeWHXjQhH8qRmycEayMwQ' },
   { title: 'Instagram', url: 'https://instagram.com/zaputlah/?hl=id' },
-  { title: 'git', url: 'https://www.github.com/yourusername' },
+  { title: 'git', url: 'https://github.com/Zaputlah' },
   // Tambahkan link lainnya sesuai keinginan Anda
 ];
 const react = [
