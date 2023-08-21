@@ -21,6 +21,10 @@ const react = [
   // Tambahkan link lainnya sesuai keinginan Anda
 ];
 
+const htmljavascript = [
+  { title: 'nembak pacar', url: 'https://pacar.vercel.app/' },
+];
+
 const Comingsoon = [
   // Tambahkan link lainnya sesuai keinginan Anda
 ];
@@ -43,6 +47,16 @@ function App() {
           <select onChange={handleSelectChange}>
             <option value="">Project React</option>
             {react.map((project, index) => (
+              <option key={index} value={project.url}>
+                {project.title}
+              </option>
+            ))}
+          </select>
+        </div>
+          <div className="link-dropdown">
+          <select onChange={handleSelectChange}>
+            <option value="">html javascript</option>
+            {htmljavascript.map((project, index) => (
               <option key={index} value={project.url}>
                 {project.title}
               </option>
