@@ -18,6 +18,7 @@ const react = [
   { title: 'WeatherApp+Api', url: 'https://weatherapp-hazel-three.vercel.app/' },
   { title: 'qoute+Api', url: 'https://qoute-chi.vercel.app/' },
   { title: 'CrudRedux+jwt', url: 'https://crud-react-redux-tau.vercel.app/' },
+  { title: 'Hospital', url: 'https://hospital-zaputlah.vercel.app/' },
   // Tambahkan link lainnya sesuai keinginan Anda
 ];
 
