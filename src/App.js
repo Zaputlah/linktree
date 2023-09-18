@@ -28,7 +28,8 @@ const htmljavascript = [
   {title: 'MyShop', url: 'https://meshop-liard.vercel.app/' },
 ];
 
-const Comingsoon = [
+const Game = [
+  {title: 'TebakAngka', url: 'https://tebakangka.vercel.app/' },
   // Tambahkan link lainnya sesuai keinginan Anda
 ];
 function App() {
