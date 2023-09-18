@@ -32,6 +32,7 @@ const Game = [
   {title: 'TebakAngka', url: 'https://tebakangka.vercel.app/' },
   // Tambahkan link lainnya sesuai keinginan Anda
 ];
+
 function App() {
   const [selectedUrl, setSelectedUrl] = useState('');
 
