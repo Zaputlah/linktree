@@ -24,9 +24,9 @@ const react = [
 
 const htmljavascript = [
   { title: 'nembak pacar', url: 'https://pacar.vercel.app/' },
-  {title: 'undangan wedding', url: 'https://undangan-mywedding.vercel.app/' },
-  {title: 'MyShop', url: 'https://meshop-liard.vercel.app/' },
-  {title: 'TebakAngka', url: 'https://tebakangka.vercel.app/' },
+  { title: 'undangan wedding', url: 'https://undangan-mywedding.vercel.app/' },
+  { title: 'MyShop', url: 'https://meshop-liard.vercel.app/' },
+  { title: 'TebakAngka', url: 'https://tebakangka.vercel.app/' },
 ];
 
 const Comingsoon = [
