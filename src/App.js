@@ -20,6 +20,7 @@ const react = [
   { title: 'CrudRedux+jwt', url: 'https://crud-react-redux-tau.vercel.app/' },
   { title: 'Hospital', url: 'https://hospital-zaputlah.vercel.app/' },
   { title: 'stream-verse', url: 'https://stream-verse-seven.vercel.app/ },
+    { title: 'stream-verse', url: 'https://stream-verse-seven.vercel.app/ },
   // Tambahkan link lainnya sesuai keinginan Anda
 ];
 
